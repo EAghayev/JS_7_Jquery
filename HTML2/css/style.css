@@ -1,0 +1,12 @@
+#list{
+
+}
+
+#list li{
+    cursor: pointer;
+}
+
+#list li.active{
+    background-color: ivory;
+    color: black;
+}

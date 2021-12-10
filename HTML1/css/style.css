@@ -1,0 +1,15 @@
+#list .title{
+    padding: 8px 14px;
+    background-color: gainsboro;
+    cursor: pointer;
+}
+
+#list .text{
+    display: none;
+}
+
+.box{
+    width: 250px;
+    height: 200px;
+    background-color: greenyellow;
+}
